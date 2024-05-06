@@ -1,0 +1,14 @@
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/bin/Debug/net8.0/Teoria8
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/bin/Debug/net8.0/Teoria8.deps.json
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/bin/Debug/net8.0/Teoria8.runtimeconfig.json
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/bin/Debug/net8.0/Teoria8.dll
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/bin/Debug/net8.0/Teoria8.pdb
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/obj/Debug/net8.0/Teoria8.GeneratedMSBuildEditorConfig.editorconfig
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/obj/Debug/net8.0/Teoria8.AssemblyInfoInputs.cache
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/obj/Debug/net8.0/Teoria8.AssemblyInfo.cs
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/obj/Debug/net8.0/Teoria8.csproj.CoreCompileInputs.cache
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/obj/Debug/net8.0/Teoria8.dll
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/obj/Debug/net8.0/refint/Teoria8.dll
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/obj/Debug/net8.0/Teoria8.pdb
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/obj/Debug/net8.0/Teoria8.genruntimeconfig.cache
+/home/alumnos/Escritorio/proyectosDotnet/Teoria8/obj/Debug/net8.0/ref/Teoria8.dll
